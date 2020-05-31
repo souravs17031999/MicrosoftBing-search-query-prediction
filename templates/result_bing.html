@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 	<meta http-equiv="x-ua-compatible" content="ie=edge">
   <!-- Latest compiled and minified CSS -->
-
+  <link rel="icon" type="image/ico" href="/static/logo.jpg" />
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 
   <!-- jQuery library -->
@@ -13,7 +13,7 @@
 
   <!-- Latest compiled JavaScript -->
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  <title>Object Detection App</title></head>
+  <title>Bing Search Prediction App</title></head>
   <style>
   /*  nav bar starts */
       ul {
@@ -44,6 +44,61 @@
       background-color: #ed561a;
     }
   /*  nav bar finished */
+  /* The sidebar menu */
+  .sidebar {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #363635;
+    position: fixed;
+    height: 100%;
+    overflow: auto;
+  }
+
+  /* Sidebar links */
+  .sidebar a {
+    display: block;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
+
+  /* Active/current link */
+  .sidebar a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+
+  /* Links on mouse-over */
+  .sidebar a:hover:not(.active) {
+    background-color: black;
+    color: white;
+  }
+
+  /* Page content. The value of the margin-left property should match the value of the sidebar's width property */
+  div.content {
+    margin-left: 200px;
+    padding: 1px 16px;
+    height: 1000px;
+  }
+
+  /* On screens that are less than 700px wide, make the sidebar into a topbar */
+  @media screen and (max-width: 700px) {
+    .sidebar {
+      width: 100%;
+      height: auto;
+      position: relative;
+    }
+    .sidebar a {float: left;}
+    div.content {margin-left: 0;}
+  }
+/*side bar ends*/
+@media screen and (max-width: 400px) {
+.sidebar a {
+  text-align: center;
+  float: none;
+}
+}
     .footer {
        position: fixed;
        left: 0;
@@ -91,6 +146,11 @@
   <ul>
     <li><a class="active" href="/bing_search">Home</a></li>
   </ul>
+  <!-- Side navigation -->
+<div class="sidebar">
+  <a href="/bing_search">Explore Data</a>
+  <a href="/bing_search">EDA Visualization</a>
+</div>
   <div class="container">
       <br>
       <h2>Predictions info :</h2>
