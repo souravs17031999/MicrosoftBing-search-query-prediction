@@ -39,6 +39,14 @@ included.
 to the Coronavirus or Covid-19.      
 
 
+# Methods Explored :   
+* Bag oF Words model    
+* N-grams model     
+* tf-idf model     
+* Skim-Gram model       
+* Clustering techniques    
+* Classification techniques      
+
 # Deployment and Hosting:     
 * The final model which is trained and saved is then loaded and deployed
 with Flask backend server and hosted on pythonanywhere.com cloud
