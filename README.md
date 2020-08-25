@@ -1,4 +1,4 @@
-# MicrosoftBing-search-query-prediction 
+# MicrosoftBing-search-query-prediction
 
 # Problem statement:
 The world is going through COVID-19 pandemic caused due to Novel
@@ -6,7 +6,7 @@ Coronavirus and people are mostly in their homes across the world due to
 lockdown and they are searching for various things related to Coronavirus on
 internet using popular search engines such as Chrome, Bing, Yahoo,
 DuckDuckGo etc.     
-    
+
 Now, the problem task is to attempt to explore the intent of the people by just
 using the queries (searches) in the last four months Jan to April 2020 and also
 build a predicting model which predicts the Country of origin from where the
@@ -55,5 +55,17 @@ The code for the same is available at my github repo:
 https://github.com/souravs17031999/MicrosoftBing-search-queryprediction     
 * Server Link (Live website) :     
 https://souravsdlboy.pythonanywhere.com/bing_search      
-     
+
 ## Live WebApp : [Server Link](https://souravsdlboy.pythonanywhere.com/bing_search)
+
+# Exploring Data with Sample visualizations :     
+![DATA](/images/data.JPG)   
+![vis1](/images/vis1.JPG)   
+![vis2](/images/vis2.JPG)   
+![vis3](/images/vis3.JPG)   
+![vis4](/images/vis4.JPG)   
+![vis5](/images/vis5.JPG)     
+
+NOTE : For more visualizations, check out the live webapp.
+
+⭐️ this Project if you liked it !
