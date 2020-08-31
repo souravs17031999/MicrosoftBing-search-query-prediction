@@ -65,6 +65,8 @@ https://souravsdlboy.pythonanywhere.com/bing_search
 ![vis3](/images/vis3.JPG)   
 ![vis4](/images/vis4.JPG)   
 ![vis5](/images/vis5.JPG)     
+![vis6](/images/webapp.JPG)     
+
 
 NOTE : For more visualizations, check out the live webapp.
 
