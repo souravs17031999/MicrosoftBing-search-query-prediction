@@ -47,8 +47,8 @@ to the Coronavirus or Covid-19.
 * Clustering techniques    
 * Classification techniques      
   
-# Modelling :    
-> Preprocessing steps :      
+  
+# Preprocessing steps :       
 ![vis1](/images/text1.png)     
 * Tokenization :   
 ![vis1](/images/text2.JPG)      
@@ -62,7 +62,7 @@ Removing punctuation, stopwords, HTML tags, XML tags etc..
 
 * See reference links at the end for more details. 
 
-
+# Modelling :  
 > Models  : 
 
 
