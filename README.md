@@ -46,6 +46,12 @@ to the Coronavirus or Covid-19.
 * Skim-Gram model       
 * Clustering techniques    
 * Classification techniques      
+  
+# Modelling :    
+> Preprocessing steps :      
+
+> Models  : 
+
 
 # Deployment and Hosting:     
 * The final model which is trained and saved is then loaded and deployed
