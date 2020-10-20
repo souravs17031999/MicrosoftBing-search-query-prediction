@@ -58,7 +58,14 @@ to the Coronavirus or Covid-19.
 Removing punctuation, stopwords, HTML tags, XML tags etc.. 
 ![vis1](/images/text4.png)      
 
+* Normalization : 
+Converting dates, other symbols, acronyms, and abbreviations to Text.
 
+* Stemming :  
+![vis1](/images/text5.JPG)  
+
+* Lemmatization : 
+![vis1](/images/text6.JPG)  
 
 
 * See reference links at the end for more details. 
