@@ -49,7 +49,7 @@ to the Coronavirus or Covid-19.
   
 # Modelling :    
 > Preprocessing steps :      
-![vis1](/images/text1.JPG)     
+![vis1](/images/text1.png)     
 * Tokenization :   
 ![vis1](/images/text2.JPG)      
 ![vis1](/images/text3.JPG)      
