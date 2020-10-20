@@ -70,8 +70,15 @@ Converting dates, other symbols, acronyms, and abbreviations to Text.
 
 * See reference links at the end for more details. 
 
-# Modelling :  
-> Models  : 
+# Modelling :    
+> Models  :   
+* [SGD classifier](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.SGDClassifier.html)    
+* [MultinomialNB](http://scikit-learn.org/stable/modules/generated/sklearn.naive_bayes.MultinomialNB.html)   
+* [LinearSVC](http://scikit-learn.org/stable/modules/generated/sklearn.svm.LinearSVC.html)   
+* [Decision tree](http://scikit-learn.org/stable/modules/tree.html)   
+* [Random Forest](http://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestClassifier.html)    
+
+![vis1](/images/text7.JPG)     
 
 
 # Deployment and Hosting:     
