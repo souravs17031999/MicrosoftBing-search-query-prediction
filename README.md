@@ -56,6 +56,7 @@ to the Coronavirus or Covid-19.
 
 * Cleaning : 
 Removing punctuation, stopwords, HTML tags, XML tags etc.. 
+![vis1](/images/text4.png)      
 
 
 
