@@ -49,6 +49,19 @@ to the Coronavirus or Covid-19.
   
 # Modelling :    
 > Preprocessing steps :      
+![vis1](/images/text1.JPG)     
+* Tokenization :   
+![vis1](/images/text2.JPG)      
+![vis1](/images/text3.JPG)      
+
+* Cleaning : 
+Removing punctuation, stopwords, HTML tags, XML tags etc.. 
+
+
+
+
+* See reference links at the end for more details. 
+
 
 > Models  : 
 
@@ -76,4 +89,14 @@ https://souravsdlboy.pythonanywhere.com/bing_search
 
 NOTE : For more visualizations, check out the live webapp.
 
+> Few links for references : 
+* [Tokenization](https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html)
+* [Cleaning](https://machinelearningmastery.com/clean-text-machine-learning-python/)
+* [Normalization](https://en.wikipedia.org/wiki/Text_normalization)
+* [Lemmatization](https://en.wikipedia.org/wiki/Lemmatisation)
+* [Steaming](https://en.wikipedia.org/wiki/Stemming)
+
+
 ⭐️ this Project if you liked it !
+
+NOTE : Few images are taken from google images and copyrights reserved with their respective owners.
