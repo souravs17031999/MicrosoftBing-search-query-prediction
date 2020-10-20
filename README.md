@@ -42,7 +42,8 @@ to the Coronavirus or Covid-19.
 # Methods Explored :   
 * Bag oF Words model    
 * N-grams model     
-* tf-idf model     
+* tf-idf model 
+* Continuos bag of words model
 * Skim-Gram model       
 * Clustering techniques    
 * Classification techniques      
