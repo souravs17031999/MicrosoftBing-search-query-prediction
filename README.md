@@ -41,12 +41,13 @@ to the Coronavirus or Covid-19.
 
 # Methods Explored :   
 * Bag oF Words model    
-* N-grams model     
-* tf-idf model 
-* Continuos bag of words model
-* Skim-Gram model       
-* Clustering techniques    
-* Classification techniques      
+* N-grams model      
+![vis1](/images/text10.png)         
+* tf-idf model    
+* Continuos bag of words model    
+* Skim-Gram model          
+* Clustering techniques       
+* Classification techniques          
   
 # Bag of Words model :   
 Characterizes frequency of terms appearing within the document and among the documents without concerned with order.     
