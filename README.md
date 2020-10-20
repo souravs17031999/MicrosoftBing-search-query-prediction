@@ -47,7 +47,18 @@ to the Coronavirus or Covid-19.
 * Clustering techniques    
 * Classification techniques      
   
-  
+# Bag of Words model :   
+Characterizes frequency of terms appearing within the document and among the documents without concerned with order.     
+(This is also input to the models used for classification pipeline)    
+
+> CountVectorizer
+![vis1](/images/text8.JPG)      
+
+> TfidfVectorizer
+![vis1](/images/text9.JPG)      
+![vis1](/images/text10.JPG)      
+
+
 # Preprocessing steps :       
 ![vis1](/images/text1.1.png)     
 * Tokenization :   
