@@ -55,8 +55,7 @@ Characterizes frequency of terms appearing within the document and among the doc
 ![vis1](/images/text8.JPG)      
 
 > TfidfVectorizer
-![vis1](/images/text9.JPG)      
-![vis1](/images/text10.JPG)      
+![vis1](/images/text9.png)      
 
 
 # Preprocessing steps :       
