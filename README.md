@@ -48,7 +48,7 @@ to the Coronavirus or Covid-19.
 * Continuos bag of words model   
 ![vis1](/images/text12.png)              
 * Skim-Gram model          
-![vis1](/images/text13.png)              
+![vis1](/images/text12.1.png)              
 * Clustering techniques       
 * Classification techniques          
   
