@@ -41,7 +41,7 @@ to the Coronavirus or Covid-19.
 
 # Methods Explored :   
 * Bag of Words model     
-![vis1](/images/text11.JPG)       
+![vis1](/images/text11.1.JPG)       
 * N-grams model        
 ![vis1](/images/text10.png)           
 * tf-idf model       
