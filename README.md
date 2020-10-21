@@ -78,7 +78,8 @@ the model might only predict "1" for any context word but with negative sampling
 
 
 * Clustering techniques       
-* Classification techniques          
+* Classification techniques    
+* WordCloud and more...    
   
 # Bag of Words model :   
 Characterizes frequency of terms appearing within the document and among the documents without concerned with order.     
