@@ -63,7 +63,17 @@ Then, backpropogration is used in the neural network training process to update 
 
 ![vis1](/images/text14.png)                 
 ![vis1](/images/text15.png)                
+![vis1](/images/text16.png)                
 
+The embedding matrix are finally learnt embeddings through number of times we cycle the training process.        
+NOTE : In the construction of above training samples, we have only shown those which are positive samples i.e. containing context correct words so target will always be "1" but 
+in reality we will do negative sampling also i.e. random sampling words through vocabulary and set it to target vector so that there are "0", wrong context words also, otherwise
+the model might only predict "1" for any context word but with negative sampling, it will actually try to learn the semantic relationships embedded.    
+
+> using skipgram   
+![vis1](/images/text17.JPG)                 
+> using CBOW 
+![vis1](/images/text18.JPG)                 
 
 
 
