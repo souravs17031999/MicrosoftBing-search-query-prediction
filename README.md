@@ -61,7 +61,8 @@ Input (words) are one - hot encoded binary vector of vocab size and same is with
 
 Then, backpropogration is used in the neural network training process to update the parameters which are useful for learning embeddings.    
 
-![vis1](/images/text14.png)              
+![vis1](/images/text14.png)                 
+![vis1](/images/text15.png)                
 
 
 
