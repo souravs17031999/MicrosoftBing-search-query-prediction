@@ -40,10 +40,11 @@ to the Coronavirus or Covid-19.
 
 
 # Methods Explored :   
-* Bag oF Words model    
-* N-grams model      
-![vis1](/images/text10.png)         
-* tf-idf model    
+* Bag of Words model     
+![vis1](/images/text11.JPG)       
+* N-grams model        
+![vis1](/images/text10.png)           
+* tf-idf model       
 * Continuos bag of words model    
 * Skim-Gram model          
 * Clustering techniques       
