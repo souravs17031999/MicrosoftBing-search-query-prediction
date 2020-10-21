@@ -48,7 +48,20 @@ to the Coronavirus or Covid-19.
 * Continuos bag of words model   
 ![vis1](/images/text12.png)              
 * Skim-Gram model          
-![vis1](/images/text12.1.png)              
+![vis1](/images/text12.1.png)
+* Word2Vec model   
+Above architechtures for CBOW and skipgrams are used to construct the training samples which forms both - embedding matrix and context words (neighbouring words in the window). 
+Then, supervised learning is done using input samples, target and error function is minimized to learn new embeddings for the input samples.     
+Here, window size is a important hyperparameter which controls the context words.   
+Embedding matrix and context matrix will be used in the neural network architechture to learn the word vectors (embeddings).   
+Input (words) are one - hot encoded binary vector of vocab size and same is with output vector.
+Then, backpropogration is used in the neural network training process to update the parameters which are useful for learning embeddings.    
+
+![vis1](/images/text14.png)              
+
+
+
+
 * Clustering techniques       
 * Classification techniques          
   
