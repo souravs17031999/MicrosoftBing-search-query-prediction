@@ -45,8 +45,10 @@ to the Coronavirus or Covid-19.
 * N-grams model        
 ![vis1](/images/text10.png)           
 * tf-idf model       
-* Continuos bag of words model    
+* Continuos bag of words model   
+![vis1](/images/text12.png)              
 * Skim-Gram model          
+![vis1](/images/text13.png)              
 * Clustering techniques       
 * Classification techniques          
   
