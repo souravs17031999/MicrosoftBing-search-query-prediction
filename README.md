@@ -16,6 +16,14 @@ exploring the queries at global level as well as state level granularity will en
 state and central authorities to take appropriate action and eventually helping
 out and benefitting the Citizens.        
 
+The thing is that most of people in the world or the authorities (govt. or private) were unprepared and underestimates the risk 
+when outbreak emerged because we haven't seen this type of event earlier and so, people panicked completely.
+They stressed and gone into depression due to job salary cuts, loosing their family etc...    
+Others were worried about mask, sanitizers, food items (due to which people started vacating stuff from malls/shops), rumours started circulating regarding
+various vaccines/cures etc... which needed to be checked upon and many people didn't speak due to depression or panic.    
+So, it can be great and effective tool for analysing data at such a great scale for determining area based, country based etc... measures which can be taken 
+for the above said problems/situations.     
+
 # Motivation:      
 As a Computer Engineering Student and my deep interested in Machine
 learning and Deep learning including NLP tasks, I have my inner passion to
