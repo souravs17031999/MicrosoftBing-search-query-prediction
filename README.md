@@ -8,7 +8,7 @@ internet using popular search engines such as Chrome, Bing, Yahoo,
 DuckDuckGo etc.     
 
 Now, the problem task is to attempt to explore the intent of the people by just
-using the queries (searches) in the last four months Jan to April 2020 and also
+using the queries (searches) in the last four months Feb to May 2020 and also
 build a predicting model which predicts the Country of origin from where the
 search query was issued , as search queries made by people can really help in
 understanding what’s going in people’s mind during this pandemic and
